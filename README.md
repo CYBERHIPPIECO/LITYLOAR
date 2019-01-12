@@ -55,7 +55,7 @@ Description.
 
 <a name="icebox"></a>
 ### Icebox
-+ Idea_01
++ There will be black on white (outside) and white on black areas (inside). Game will track how long you spend in the black version and when you access something (puzzle, item, whatever it may be) it will send a semi-visible monster after you coming from the dark space. The more you spend time in there the more weird it will get.
 + Idea_02
 + Idea_03
 
