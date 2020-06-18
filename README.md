@@ -34,6 +34,13 @@ The inspiration from landscapes comes from a variety of borderline imagery that 
 ![](scene-idea2.png)
 ![](scene-idea3.png)
 ![](scene-idea4.png)
+![](items.png)
+![](IMG_1815.JPG)	
+![](character-inventory-spritesheet-big.png)
+![](character-inventory-spritesheet-big (1).png)	
+![](IMG_1803.jpg)	
+![](IMG_1807.JPG)	
+![](IMG_1811.JPG)
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
